@@ -7,4 +7,5 @@ aws cloudformation update-stack --template-body file://mng-rate5.yaml  --capabil
 ```
 
 A script to increase the MNG in the morning and decrease in the evening
+
 Version: 2023.08.09
